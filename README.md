@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhoboy" alt="subhoboy" /></a> </p>
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/SubhoBoy/SubhoBoy/blob/main/devcard.svg" width="295" align="right" alt="Subhodeep Chakraborty's Dev Card"/></a>
+
 - 🔭 I’m currently working on [discordrss](https://github.com/SubhoBoy/discordrss)
 
 - 🌱 I’m currently learning **C, NodeJS, Ruby**
