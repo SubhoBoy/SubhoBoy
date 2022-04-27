@@ -7,7 +7,7 @@
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/SubhoBoy/SubhoBoy/blob/main/devcard.svg" width="295" align="right" alt="Subhodeep Chakraborty's Dev Card"/></a>
 
-- 🔭 I’m currently working on [discordrss](https://github.com/SubhoBoy/discordrss)
+- 🔭 I’m currently working on [RSSCord](https://github.com/SubhoBoy/RSSCord)
 
 - 🌱 I’m currently learning **C, NodeJS, Ruby**
 
